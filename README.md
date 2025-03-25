@@ -182,9 +182,6 @@ Here is the [complete code example](https://github.com/malikdawar/drawroute/blob
 
 Here is a screenshot of the DrawRoute library in action:
 
-![image](screenshot/map.jpeg)
 
 ## Developed By
-
-**Malik Dawar**  
-[malikdawar332@gmail.com](mailto:malikdawar332@gmail.com)
+TrackAsia Map
